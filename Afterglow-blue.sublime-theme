@@ -525,6 +525,16 @@
         "indent_top_level": false,
         "dark_content": true
     },
+    // Sidebar tree padding exlarge
+    {
+        "class": "sidebar_tree",
+        "settings": ["sidebar_row_padding_exlarge"],
+        "row_padding": [10,10],
+        "indent": 16,
+        "indent_offset": 16,
+        "indent_top_level": false,
+        "dark_content": true
+    },
     // Sidebar rows
     {
         "class": "tree_row",
@@ -578,6 +588,41 @@
         "class": "sidebar_label",
         "settings": ["sidebar_size_14"],
         "font.size": 14,
+        "color": [116, 116, 116] // 03
+    },
+    // Sidebar entry font size 16
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_16"],
+        "font.size": 16,
+        "color": [116, 116, 116] // 03
+    },
+    // Sidebar entry font size 18
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_18"],
+        "font.size": 18,
+        "color": [116, 116, 116] // 03
+    },
+    // Sidebar entry font size 20
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_20"],
+        "font.size": 20,
+        "color": [116, 116, 116] // 03
+    },
+    // Sidebar entry font size 22
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_22"],
+        "font.size": 22,
+        "color": [116, 116, 116] // 03
+    },
+    // Sidebar entry font size 24
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_24"],
+        "font.size": 24,
         "color": [116, 116, 116] // 03
     },
     // Sidebar folder entry
