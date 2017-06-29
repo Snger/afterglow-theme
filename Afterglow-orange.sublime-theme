@@ -573,28 +573,28 @@
     {
         "class": "sidebar_label",
         "settings": ["sidebar_size_12"],
-        "font.size": 12,
+        "font.size": 18,
         "color": [116, 116, 116] // 03
     },
     // Sidebar entry font size 13
     {
         "class": "sidebar_label",
         "settings": ["sidebar_size_13"],
-        "font.size": 13,
+        "font.size": 18,
         "color": [116, 116, 116] // 03
     },
     // Sidebar entry font size 14
     {
         "class": "sidebar_label",
         "settings": ["sidebar_size_14"],
-        "font.size": 14,
+        "font.size": 18,
         "color": [116, 116, 116] // 03
     },
     // Sidebar entry font size 16
     {
         "class": "sidebar_label",
         "settings": ["sidebar_size_16"],
-        "font.size": 16,
+        "font.size": 18,
         "color": [116, 116, 116] // 03
     },
     // Sidebar entry font size 18
@@ -880,6 +880,7 @@
     },
     {
         "class": "quick_panel_label",
+        "font.size": 18,
         "fg": [160, 160, 160, 255], // 04
         "match_fg": [211, 211, 211, 255], // 05
         "selected_fg": [211, 211, 211, 255], // 05
